@@ -40,4 +40,4 @@ jobs:
         pwd
         ls -l .
         which python
-        ./test1.py
+        python test1.py
