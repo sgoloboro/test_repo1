@@ -39,4 +39,5 @@ jobs:
         # pytest
         pwd
         ls -l .
+        which python
         #test1.py
