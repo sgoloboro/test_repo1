@@ -37,6 +37,6 @@ jobs:
     - name: Test with python
       run: |
         # pytest
-        # sh pwd
-        sh ls
-        test1.py
+        pwd
+        ls -l .
+        #test1.py
