@@ -9,7 +9,6 @@ on:
     branches: [ branch1_test1 ]
 =======
     branches: [main, branch1_test1 ]
->>>>>>> branch1_test1
   pull_request:
     branches: [ main ]
 
